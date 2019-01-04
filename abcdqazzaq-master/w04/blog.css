@@ -1,0 +1,17 @@
+body{
+    BORDER:20PX SOLID #BDC3C7;
+    MARGIN:50px;
+    WIDTH:80%;
+    PADDING:20PX;
+    FONT-SIZE:16PX;
+}
+h2{
+    FONT-SIZE:2REM;
+}
+.quote{BORDER-LEFT:5PX SOLID #BDC3C7;
+PADDING-LEFT:5PX;}
+
+.date{color:#5096d3;
+text-transform: uppercase;
+letter-spacing:  0.2rem;
+}
